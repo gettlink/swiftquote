@@ -10,3 +10,4 @@ graphify-out/cache/
 *.tsbuildinfo
 *.local
 *.md
+!README.md
