@@ -1,0 +1,10 @@
+export const MAX_MONEY_MINOR = 999_999_999_999;
+export const MAX_RATE_BASIS_POINTS = 100_000;
+export const MAX_DISCOUNT_BASIS_POINTS = 10_000;
+export const MAX_QUANTITY = 1_000_000;
+export const MAX_QUANTITY_DECIMALS = 4;
+export const MAX_LINE_ITEMS = 500;
+export const MAX_TEXT_LENGTH = 10_000;
+export const MAX_SHORT_TEXT_LENGTH = 300;
+export const MAX_LOGO_BYTES = 1_048_576;
+export const MAX_LOGO_DIMENSION = 4_096;
